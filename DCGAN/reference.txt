@@ -1,0 +1,4 @@
+1£ºhttps://www.cnblogs.com/baiting/p/8314936.html
+     https://github.com/carpedm20/DCGAN-tensorflow
+2£ºhttps://blog.csdn.net/qq1483661204/article/details/79133888
+3£ºhttps://github.com/Hellcatzm/DCGAN_TensorFlow
