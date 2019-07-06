@@ -74,10 +74,3 @@ X_test, Y_test = load_data(test_dir)
 metrics = model.evaluate(X_test,Y_test)
 print("Model metrics:",model.metrics_names)
 print("Testing Accuracy:",metrics[1])
-
-
-
-
-
-
-
